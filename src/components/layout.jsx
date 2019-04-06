@@ -17,7 +17,7 @@ class Layout extends React.Component {
         }}
       >
         <header>
-          <NavBar title="Gatsby Blog in with angular" style={{
+          <NavBar style={{
               ...scale(1.5),
               marginBottom: rhythm(1.5),
               marginTop: 0,
